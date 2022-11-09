@@ -7,10 +7,14 @@ https://user-images.githubusercontent.com/58560920/198009047-395d2484-c97e-481b-
 
 Technology stacks
 
--> Java 11
+- [x] Java 
 
--> Spring data JPA
+- [x] Spring Boot 
 
--> H2 Database
+- [x] Spring Data JPA 
 
--> Postman
+- [x] H2 Database
+
+- [x] Maven
+
+- [x] Postman
